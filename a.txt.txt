@@ -5,7 +5,5 @@ normul`!
 4-qator
 5-qator
 kak dela
-<<<<<<< HEAD
 kak tak?
-=======
->>>>>>> 6547734450131efde640913dbe84cd9732dc1df0
+
